@@ -1,12 +1,19 @@
-### Hi there 👋, my name is Jess
+### Hi there 👋, I'm Jess Andales
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+## About me
+Im Jesus Andales an entry level web developer want to grow in this feild 
 
-Skills: VUE JS  / JS / HTML / CSS
+## Skills
 
-- 🔭 I’m currently working on this page. 
+<h3>Programming</h3> 
+
+PHP, C# JAVASCRIPT
+
+<h3>Frameworks</h3> 
+
+LARAVEL, VUEJS, TAILWINDCSS, BOOTSTRAP
 
 
 
