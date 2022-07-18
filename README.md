@@ -7,7 +7,7 @@ Im Jesus Andales an entry level web developer
 
 <h3>Programming</h3> 
 
-PHP, C# JAVASCRIPT
+PHP, C#, JAVASCRIPT
 
 <h3>Frameworks</h3> 
 
