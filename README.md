@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jess Andales
 
 ## About me
-Im Jesus Andales an entry level web developer
+Im interested in web developer
 
 ## Skills
 
